@@ -15,13 +15,11 @@ R: Sim, esta nos meus planos colocar ele aceitando MySQL assim como ele vai ser 
 Quais comandos ele possui?
 R: /tag e /vpermission, o /tag serve para ativar ou desativar a tag e o /vpermission funciona para controlar o plugin via comando. Com o /vpermission <group/user> você seta tanto tudo dos grupos assim como tudo do usuário.
 
-Download E Source
+Download ,Source etc...
 
 Source: https://github.com/Veteran0/vpermission
 Download: https://veteran0.me/arquivos/VPermission-1.0-SNAPSHOT.jar
 GamersBoard: https://gamersboard.com.br/topic/63555-vpermission-plugin-de-permissao-opensource/
 Spigot: https://www.spigotmc.org/resources/vpermission.63014/
-
----------------------------------
-Caso precise de ajuda estou a dispor via Discord :baladinha: |  https://discord.gg/RBJkGkC
-Caso queira fazer alguma doação será muito bem vindo :nyanparrot:| https://veteran0.me/donate
+Caso precise de ajuda estou a dispor via Discord: https://discord.gg/RBJkGkC
+Caso queira fazer alguma doação será muito bem vindo: https://veteran0.me/donate
