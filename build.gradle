@@ -1,0 +1,27 @@
+plugins {
+    id 'java'
+}
+
+group 'Bukkit'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    maven {
+        url = 'http://ci.nametagedit.com/plugin/repository/everything/'
+    }
+    maven {
+        url = 'https://hub.spigotmc.org/nexus/content/repositories/snapshots/'
+    }
+    maven {
+        url = 'https://oss.sonatype.org/content/repositories/snapshots'
+    }
+    mavenCentral()
+}
+
+dependencies {
+    compileOnly 'com.nametagedit:nametagedit:4.1.0'
+    compileOnly 'org.bukkit:bukkit:1.13.2-R0.1-SNAPSHOT'
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+}

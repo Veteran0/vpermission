@@ -1,0 +1,13 @@
+name: VPermission
+version: 1.0
+main: me.veteran0.vpermission.Main
+author: Veteran0
+website: https://veterano.me/projetos/vpermission
+description: Permission plugin
+depend:
+  - NametagEdit
+commands:
+  tag:
+    description: Change your prefix to default.
+  vpermission:
+    description: Main command.
